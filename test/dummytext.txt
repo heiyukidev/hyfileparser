@@ -1,0 +1,4 @@
+Line 1 : this is the files content
+Line 2 : this is the second line of the text file
+Line 3 : this is somehow working
+Line 4 : trust me this module works

@@ -1,0 +1,15 @@
+{
+  "name": "hyfileparser",
+  "version": "0.1.0",
+  "description": "Reads a file and returns it as an array of lines",
+  "main": "parser.js",
+  "scripts": {
+    "test": "echo \"Running Tests With Mocha\" && mocha"
+  },
+  "author": "Hei Yuki <heiyukidev@gmail.com> (https://github.com/heiyukidev)",
+  "license": "MIT",
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^3.2.0"
+  }
+}
